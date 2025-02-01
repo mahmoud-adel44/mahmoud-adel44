@@ -24,8 +24,8 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- 🏛️ I Have Been Working as a Senior Software Engineer For More Than +4 years
-- 🏛️ Currently Working as Software Engineer (Backend) <a href="https://www.linkedin.com/company/giza-systems/posts/?feedView=all">@GizaSystems </a>
+- 🏛️ I Have Been Working as a Software Engineer For More Than +4 years
+- 🏛️ Currently Working as Senior Software Engineer <a href="https://www.linkedin.com/company/giza-systems/posts/?feedView=all">@GizaSystems </a>
 - 🎓 Computer Science graduate <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a>
 - ⚡ I am passionate about Back-End Engineering and Database Systems.
 - 📖 I'm currently Reading <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321"> Design Data Intensive Application </a> Book.
